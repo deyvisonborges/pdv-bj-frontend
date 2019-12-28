@@ -1,0 +1,18 @@
+{
+  "name": "bj",
+  "version": "0.0.1",
+  "description": "Frontend - PDV BJ Supermercados",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "author": "Deyvison Borges",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "nuxt": "^2.11.0"
+  },
+  "devDependencies": {
+    "less": "^3.10.3",
+    "less-loader": "^5.0.0"
+  }
+}
