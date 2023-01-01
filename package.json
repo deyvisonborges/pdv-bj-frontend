@@ -9,10 +9,10 @@
   "author": "Deyvison Borges",
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "nuxt": "^2.11.0"
+    "nuxt": "^3.0.0"
   },
   "devDependencies": {
     "less": "^3.10.3",
-    "less-loader": "^5.0.0"
+    "less-loader": "^11.1.0"
   }
 }
